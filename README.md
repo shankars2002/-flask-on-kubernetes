@@ -237,3 +237,16 @@ flask-k8s/
 ├── README.md
 ```
 
+## Project Screenshots
+
+Flask App in Browser![Screenshot 2024-11-08 112213](https://github.com/user-attachments/assets/6d4723ff-d40f-42ff-8e1c-78fe61c75583)
+
+
+Screenshot of the Flask application running on Minikube.
+
+![Minikube Status](![Screenshot 2024-11-08 112203](https://github.com/user-attachments/assets/4ae9720b-0eb7-4ae0-b69f-da9b36e60811)
+)
+![Screenshot 2024-11-08 112148](https://github.com/user-attachments/assets/4de72ff4-3681-4cb0-b07d-fffb6924b40a)
+
+Screenshot showing the pod and service status in Minikube.
+
